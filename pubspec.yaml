@@ -1,0 +1,20 @@
+name: district_telegram_parser
+description: A sample command-line application.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.2.0
+
+# Add regular dependencies here.
+dependencies:
+  # path: ^1.8.0
+  csv: ^5.1.1
+  freezed: ^2.4.6
+  freezed_annotation: ^2.4.1
+  json_serializable: ^6.7.1
+  build_runner: ^2.4.8
+
+dev_dependencies:
+  lints: ^2.1.0
+  test: ^1.24.0
